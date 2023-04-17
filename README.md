@@ -19,6 +19,12 @@ Some business questions were formulated and now we will answer them through 4 hy
 The Python language was used for problem solving. <br>
 The hypothesis tests were the One-Sample t-Test, Two-Sample t-Test (Paired), Two Independent Samples t Test and the Chi-Square Test
 
+* Step 01: Import and checking the quality of the data;
+* Step 02: Use the One-Sample t-Test to answer the business problem;
+* Step 03: Use the Two-Sample t-Test (Paired) to answer the business problem;
+* Step 04: Use the Two Independent Samples t Test to answer the business problem;
+* Step 05: Use the Chi-Square Test to answer the business problem.
+
 ## Next Steps
 * Accepting suggestions :D
 
