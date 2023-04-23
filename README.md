@@ -1,4 +1,4 @@
-# TelecomAnalysis
+# Telecom Analysis
 Hypothesis Tests in Python Language for Business Problems in Telecom
 
 <img align="center" src=https://user-images.githubusercontent.com/111542025/231279925-f4c954bb-5d3f-4179-bb42-aaa7d6855c24.jpg>
